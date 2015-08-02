@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Шахматные Часы</string>
+
+    <string name="double_press">Нажмите ещё раз для выхода</string>
+
+    <string name="exit">Выйти?</string>
+    <string name="exit_now">Выйти сейчас?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+
+    <string name="settings">Настройки</string>
+    <string name="info">Инфо</string>
+
+    <string name="share_confirmation">Да</string>
+    <string name="share_rejection">Отмена</string>
+
+    <string name="time">Время</string>
+    <string name="start">Старт</string>
+    <string name="save">Запомнить</string>
+
+    <string name="pause">Пауза</string>
+    <string name="error">Ошибка:</string>
+
+</resources>

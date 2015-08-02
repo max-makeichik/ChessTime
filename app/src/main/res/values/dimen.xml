@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--logo.xml-->
+    <dimen name="logo_padding_bottom">10dp</dimen>
+
+
+    <!--fragment.xml-->
+    <dimen name="text">25sp</dimen>
+    <dimen name="question_text_size">18sp</dimen>
+    <dimen name="question_padding_bottom">15dp</dimen>
+    <dimen name="question_padding_top">10dp</dimen>
+    <dimen name="question_padding_left">5dp</dimen>
+    <dimen name="question_padding_right">5dp</dimen>
+    <item name="question_line_spacing" format = "float" type="dimen">1</item>
+    <dimen name="corner_radius">10dp</dimen>
+
+    <dimen name="divider_height">5dp</dimen>
+
+    <dimen name="question_land_padding_bottom">5dp</dimen>
+
+    <!--term.xml-->
+    <integer name="term_def_max_lines">10</integer>
+    <dimen name="term_padding">10dp</dimen>
+    <dimen name="term_margin">10dp</dimen>
+    <dimen name="term_font_size">19sp</dimen>
+    <dimen name="term_def_font_size">18sp</dimen>
+
+
+
+
+
+
+
+    <!--answers_list.xml-->
+    <dimen name="answers_rel_margin_bottom">7dp</dimen>
+    <dimen name="answers_rel_margin_left">5dp</dimen>
+    <dimen name="answers_rel_margin_right">5dp</dimen>
+
+    <dimen name="answers_text_size">18sp</dimen>
+    <dimen name="answers_max_width">500px</dimen>
+    <dimen name="answers_padding_bottom">8dp</dimen>
+    <dimen name="answers_padding_top">8dp</dimen>
+    <dimen name="answers_padding_left">10dp</dimen>
+    <dimen name="answers_padding_right">10dp</dimen>
+
+    <!--result.xml-->
+    <dimen name="test_passed_size">23sp</dimen>
+    <dimen name="test_passed_margin_top">10dp</dimen>
+    <dimen name="test_passed_margin_bottom">5dp</dimen>
+
+    <dimen name="right_size">19sp</dimen>
+    <dimen name="right_margin_left">10dp</dimen>
+    <dimen name="right_padding_bottom">5dp</dimen>
+
+    <dimen name="points_size">19sp</dimen>
+    <dimen name="points_margin_left">10dp</dimen>
+    <dimen name="points_padding_bottom">10dp</dimen>
+
+    <dimen name="buttons_margin_top">5dp</dimen>
+    <dimen name="buttons_margin_top_with_mistakes">0dp</dimen>
+    <dimen name="lin_padding_bottom">2dp</dimen>
+
+    <dimen name="margin_bottom">0dp</dimen>
+
+    <!--mistakes.xml-->
+    <dimen name="linear_margin">10dp</dimen>
+    <dimen name="linear_padding_top">5dp</dimen>
+    <dimen name="linear_padding_bottom">10dp</dimen>
+
+    <dimen name="mistakes_question_size">17sp</dimen>
+    <dimen name="mistakes_question_padding_left">5dp</dimen>
+    <dimen name="mistakes_question_padding_right">10dp</dimen>
+    <dimen name="mistakes_question_padding_top">8dp</dimen>
+    <dimen name="mistakes_question_padding_bottom">8dp</dimen>
+
+    <dimen name="mistakes_answers_size">16sp</dimen>
+    <dimen name="mistakes_answers_padding_left">10dp</dimen>
+    <dimen name="mistakes_answers_padding_right">10dp</dimen>
+    <dimen name="mistakes_answers_padding_top">8dp</dimen>
+    <dimen name="mistakes_answers_padding_bottom">8dp</dimen>
+    <dimen name="mistakes_answers_margin_left">10dp</dimen>
+
+    <!--about.xml-->
+    <dimen name="toolbar_height">44dp</dimen>
+
+</resources>

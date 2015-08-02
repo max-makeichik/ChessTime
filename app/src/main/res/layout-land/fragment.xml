@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:baselineAligned="false"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment"
+    android:background="@color/background"
+     >
+
+    <LinearLayout
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fragment_lin"
+        android:background="@color/background"
+        >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/Gray"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:id="@+id/field1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/time1"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:textSize="100sp"
+            android:gravity="center"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/Green"
+        android:layout_margin="5dp"
+        android:id="@+id/field2">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:id="@+id/time2"
+            android:textSize="100sp"
+            android:gravity="center"/>
+
+    </RelativeLayout>
+
+    </LinearLayout>
+
+
+    <Button
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pause"
+        android:id="@+id/pause"
+        android:background="@color/RosyBrown"
+        android:layout_gravity="top|center_horizontal" />
+
+</FrameLayout>
